@@ -1,0 +1,30 @@
+h1{
+    color:aqua;
+}
+
+.header{
+    background-color: rgb(238, 6, 6);
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    font-size: xx-large;
+}
+
+.content{
+    color: darkcyan;
+}
+
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    
+}
